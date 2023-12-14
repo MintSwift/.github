@@ -1,7 +1,9 @@
 ## 주간 스위프트
 [![Main_Banner](https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/WeeklySwift_Update_Banner.jpg)](https://apps.apple.com/app/id1661868347?action=write-review)
 
-<img src = "https://raw.githubusercontent.com/MintSwift/weekly-swift/main/assets/Conference_Widget.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/main_1.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/main_2.jpg" width="100%" height="auto">
+<img src = "https://raw.githubusercontent.com/MintSwift/MintImage/main/assets/202312_Update/main_3.jpg" width="100%" height="auto">
 
 <!--
 
